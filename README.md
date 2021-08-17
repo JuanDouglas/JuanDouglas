@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/JuanDouglas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanDouglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="Th-luff" src="https://tenor.com/view/gimme-code-gimme-code-cat-tapping-gif-15479445">
+    <div class="tenor-gif-embed" data-postid="15828752" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/test-typing-codes-gif-15828752">Test Typing GIF</a>from <a href="https://tenor.com/search/test-gifs">Test GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDouglas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
