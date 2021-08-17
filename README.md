@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/JuanDouglas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanDouglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img align="right" alt="Th-luff" src="https://media1.tenor.com/images/434a94f5116b74df9b1356d89d20de0a/tenor.gif?itemid=4877154">
+    <img align="right" alt="Th-luff" src="https://tenor.com/view/gimme-code-gimme-code-cat-tapping-gif-15479445">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDouglas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
