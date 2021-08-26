@@ -29,7 +29,7 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 <p>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuanDouglas&show_icons=true&theme=gotham" alt="icarorodrigues" />
-  <img height="180em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDouglas&hide_border=false&layout=larger&langs_count=40"/>
+  <img height="180em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDouglas&show_icons=true&theme=gotham&hide_border=false&layout=compact&langs_count=40"/>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/JuanDouglas/JuanDouglas/main/github-contribution-grid-snake.svg)
