@@ -1,9 +1,9 @@
 ### Hi there, I'm Juan Douglas
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-douglas-lima-da-silva-454846209)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://httpcat.com/404)
+[![Follow Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/JuanGamer076/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=IcaroRodrigues.IcaroRodrigues)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JuanDouglas.JuanDouglas)
 
 I am a full-stack developer. I love programming and give the best of me.
 
@@ -18,7 +18,7 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 - 🚀 I’m currently learning NextJS and NodeJS;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: juandouglas2004@gmail.com;
-- 📝 [Resume](https://cutt.ly/hlEZzHo).
+- 📝 [Contact Resume](https://flow.page/juandouglas).
 
 </br>
 </br>
