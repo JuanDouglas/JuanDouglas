@@ -16,7 +16,7 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 💬 Ask me about anything, I am happy to help;  
-- [//]: <> (🚀 I’m currently learning NextJS and NodeJS;)
+- 🚀 I'm expert in C# language
 - 📫 How to reach me: juandouglas2004@gmail.com;
 - 📝 [Contact Resume](https://flow.page/juandouglas).
 
