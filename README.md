@@ -1,20 +1,32 @@
-### Hi there 👋
-<div>
-  <a href="https://github.com/JuanDouglas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanDouglas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img heigh="180rem" aling="right" src="https://c.tenor.com/tZ2Xd8LqAnMAAAAd/typing-fast.gif"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDouglas&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### Hi there, I'm Juan Douglas
 
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Th-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Th-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Th-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Th-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Th-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Th-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-</div>
-<!--
-**
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/icarorodriguescerqueira/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/lcaroRodrigues)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=IcaroRodrigues.IcaroRodrigues)
+
+I am a full-stack developer. I love programming and give the best of me.
+
+As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+  
+
+**Talking about Personal Stuffs:**
+
+- 👨🏻‍💻 I’m currently working on something cool;
+- 🚀 I’m currently learning NextJS and NodeJS;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: juandouglas2004@gmail.com;
+- 📝 [Resume](https://cutt.ly/hlEZzHo).
+
+</br>
+</br>
+</br>
+
+### 📈 **My GitHub Stats:**
+
+<p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuanDouglas&show_icons=true&theme=gotham" alt="icarorodrigues" />
+  <img height="180em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDouglas&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
+</p>
