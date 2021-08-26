@@ -15,7 +15,6 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-[//]: <> (- 🚀 I’m currently learning NextJS and NodeJS;)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: juandouglas2004@gmail.com;
 - 📝 [Contact Resume](https://flow.page/juandouglas).
@@ -23,6 +22,8 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 </br>
 </br>
 </br>
+
+ - [//]: <> (🚀 I’m currently learning NextJS and NodeJS;)
 
 ### 📈 **My GitHub Stats:**
 
