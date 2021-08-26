@@ -15,7 +15,8 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 💬 Ask me about anything, I am happy to help;  [//]: <> (🚀 I’m currently learning NextJS and NodeJS;)
+- 💬 Ask me about anything, I am happy to help;  
+- [//]: <> (🚀 I’m currently learning NextJS and NodeJS;)
 - 📫 How to reach me: juandouglas2004@gmail.com;
 - 📝 [Contact Resume](https://flow.page/juandouglas).
 
@@ -31,4 +32,4 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
   <img height="180em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDouglas&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham"/>
 </p>
 
-![Snake animation](https://github.com/estevaoreis25/estevaoreis25/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/JuanDouglas/JuanDouglas/main/github-contribution-grid-snake.svg)
