@@ -33,3 +33,6 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/JuanDouglas/JuanDouglas/main/github-contribution-grid-snake.svg)
+
+### More
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wydphbgfhpscj4o14fwbgi3gd&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
