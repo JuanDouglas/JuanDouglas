@@ -27,8 +27,4 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 
 ### 📈 **My GitHub Stats:**
 
-<p>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JuanDouglas&show_icons=true&theme=gotham" alt="icarorodrigues" />
-</p>
-
 ![Snake animation](https://raw.githubusercontent.com/JuanDouglas/JuanDouglas/main/github-contribution-grid-snake.svg)
