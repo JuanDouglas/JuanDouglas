@@ -79,7 +79,13 @@ jobs:
       - name: Verify export directory
         run: |
           ls -la portfolio/
-          ls -la portfolio/out/ || echo "Out directory not found"
+          if [ -d "portfolio/out" ]; then
+            echo "✅ Out directory found"
+            ls -la portfolio/out/
+          else
+            echo "❌ Out directory not found"
+            exit 1
+          fi
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
