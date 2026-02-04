@@ -25,7 +25,8 @@ import {
   Trophy,
   Medal,
   Globe,
-  Rocket
+  Rocket,
+  Download
 } from 'lucide-react';
 
 /* --- TYPES --- */
@@ -430,6 +431,9 @@ export default function App() {
                  <button className="px-6 py-3 bg-white text-black font-bold rounded hover:bg-violet-200 transition-colors flex items-center gap-2">
                     <Monitor className="w-4 h-4" /> View Projects
                  </button>
+                 <a href="./curriculo.pdf" download className="px-6 py-3 bg-violet-600 hover:bg-violet-700 text-white font-bold rounded transition-colors flex items-center gap-2">
+                    <Download className="w-4 h-4" /> Download CV
+                 </a>
                  <a href={`https://${PROFILE.github}`} target="_blank" rel="noreferrer" className="px-6 py-3 border border-white/20 hover:bg-white/5 rounded font-mono text-sm flex items-center gap-2 transition-colors">
                     <Github className="w-4 h-4" /> source_code
                  </a>
